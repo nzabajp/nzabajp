@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nzabajp](https://github.com/nzabajp)
 
-- 💬 Ask me about **Javascript, React, CSS, HTML**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **nzabajp@gmail.com**
 
