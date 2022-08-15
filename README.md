@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/paul_jv" target="blank"><img src="https://img.shields.io/twitter/follow/paul_jv?logo=twitter&style=for-the-badge" alt="paul_jv" /></a> </p>
 
-- 🌱 I’m currently learning **Advance React**
+- 🌱 I’m currently **open to work opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nzabajp](https://github.com/nzabajp)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **nzabajp@gmail.com**
 
